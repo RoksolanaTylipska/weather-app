@@ -15,9 +15,21 @@ The application handle errors, such as incorrect city names or missing weather d
 ### Instructions for Running the Application
 Clone the repository to your local machine.
 Navigate to the project directory.
-Install dependencies by running 'npm install'.
-Run the application using 'npm start' or 'expo star't'.
-View the application in an emulator or on a physical device.
+Install dependencies by running
+
+```bash
+npm install
+```
+
+Run the application using 
+
+```bash
+npx expo start
+```
+
+View the application in an web or on a physical device.
+- Web: after npx expo start press 'W'
+- Physical device: Install the Expo Go app on your iOS or Android phone and connect to the same wireless network as your computer. On Android, use the Expo Go app to scan the QR code from your terminal to open your project. On iOS, use the built-in QR code scanner of the default iOS Camera app.
 
 ### Technologies Used
 React Native
