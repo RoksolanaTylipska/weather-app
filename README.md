@@ -1,6 +1,8 @@
 # Weather Application
 This is a simple weather application developed using React Native that retrieves current weather data from a public API.
 
+![image](https://github.com/RoksolanaTylipska/weather-app/assets/88103621/b90c4c50-637f-4ad5-9031-2dd1b4b39490)
+
 ## Main Screen
 The main screen of the application displays the current weather information for the selected city. It includes details such as temperature, weather conditions, humidity, etc.
 
